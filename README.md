@@ -8,6 +8,7 @@ requirements of Diagnosis and Prognosis with enormous challenges. Cancer, a dead
 genomic data and ethical analysis with big data functionalities as its crux. Breast Cancer Wisconsin data set from the UCI 
 Machine learning repo is used to conduct the analysis.
 We have implemented the following machine learning algorithms using R and Apache Spark:
+
  PCA
  Decision trees
  Linear regression
@@ -15,5 +16,6 @@ We have implemented the following machine learning algorithms using R and Apache
  Logistic Regression
  Naive Bayes
  Extreme Gradient Boosting
+
 Data is visualized by manual work. The limitations are that time taken for predicting tumour is high. The correct stage of the
 breast cancer is not predicted completely accurately. The risk of prediction is high and data is not visualized properly.
